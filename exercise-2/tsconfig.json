@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "typeRoots": [
+      "node_modules/smart-typescript-support",
+      "node_modules/@types"
+    ],
+    "types": [
+      "smart-typescript-support",
+      "node"
+    ]
+  }
+}

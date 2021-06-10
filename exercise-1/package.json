@@ -1,0 +1,16 @@
+{
+  "name": "exercise-1",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/fhir": "0.0.32",
+    "@types/node": "^15.12.2",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "uuidv4": "^6.2.10"
+  }
+}
